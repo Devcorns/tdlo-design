@@ -1,0 +1,1 @@
+var Blog = mongoose.model('Blog', blogSchema);
